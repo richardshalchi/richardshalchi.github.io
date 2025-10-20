@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    font-family: 'Radley', sans-serif;
+    background-color: #f9fafc;
+    color: #FFFFFF;
+}
+
+header {
+    text-align: center;
+    padding: 80px 0;
+    background-color: #413220;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin: 0;
+    color: #F0EDE5;
+}
