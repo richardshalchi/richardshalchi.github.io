@@ -16,7 +16,22 @@ h1 {
     font-size: 3rem;
     font-weight: 700;
     margin: 0;
-    color: #F0EDE5;
+    color: #F0EDE5
+;
+}
+
+h2 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin-left: 2rem;
+    color: #544636;
+}
+
+h3 {
+    font-size: 1.7rem;
+    font-weight: 700;
+    margin-left: 3rem;
+    color: #665a4c;
 }
 
 .site-header {
